@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Moisés Amdor
+- 👋 Hi, I’m Moisés Amador
 - 👀 I’m interested in mathematical programming
 - 🌱 I’m currently learning programming
 
